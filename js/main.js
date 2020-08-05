@@ -3,3 +3,4 @@ var instance = new vidbg('.video', {
     poster: 'video/poster.jpg', // URL or relative path to fallback image
     overlay: false, // Boolean to display the overlay or not
 });
+var rellax = new Rellax('.rocket');
